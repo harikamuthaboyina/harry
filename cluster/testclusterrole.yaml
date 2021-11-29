@@ -12,13 +12,7 @@ subjects:
   name: harika.muthaboyina@ericsson.com
 - apiGroup: rbac.authorization.k8s.io
   kind: User
-  name: vidyanand.bhave@ericsson.com
-- apiGroup: rbac.authorization.k8s.io
-  kind: User
-  name: maksim.tseljabov@ericsson.com
-- apiGroup: rbac.authorization.k8s.io
-  kind: User
-  name: sumalatha.arvini@ericsson.com
+  name: joel.ratan.j.raj.purra@ericsson.com
 
 
 
