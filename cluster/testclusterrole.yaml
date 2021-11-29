@@ -13,6 +13,10 @@ subjects:
 - apiGroup: rbac.authorization.k8s.io
   kind: User
   name: vidyanand.bhave@ericsson.com
+- apiGroup: rbac.authorization.k8s.io
+  kind: User
+  name: maksim.tseljabov@ericsson.com
+
 
 
 
