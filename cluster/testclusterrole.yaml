@@ -10,6 +10,11 @@ subjects:
 - apiGroup: rbac.authorization.k8s.io
   kind: User
   name: harika.muthaboyina@ericsson.com
+- apiGroup: rbac.authorization.k8s.io
+  kind: User
+  name: vidyanand.bhave@ericsson.com
+
+
 
 
 
